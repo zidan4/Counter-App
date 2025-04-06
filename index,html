@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><title>Counter</title></head>
+<body>
+  <h1 id="counter">Count: 0</h1>
+  <button id="increment">+1</button>
+  <script src="counter.js"></script>
+</body>
+</html>
